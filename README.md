@@ -4,6 +4,7 @@
 ## CODE CONVENTION
 algo : 사이트_문제제목  
 readme : readme.md 업데이트
+ignore : .ginignore 업데이트
 
 * ### 사이트
   - 1. 백준 : BOJ
