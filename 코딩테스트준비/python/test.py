@@ -1,6 +1,4 @@
-n = int(input())
-
-data = list(map(int,input().split()))
-
-print(n)
-print(data)
+a = set("Hello")
+a.add(1)
+a.add(2)
+print(a)

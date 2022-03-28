@@ -15,6 +15,7 @@ chore : 업데이트 내용
   - 1. 백준 : BOJ
   - 2. 프로그래머스 : PROG
   - 3. SW Expert Academy : SWEA
+  - 4. 동빈나코딩테스트유튜브 : NDB
 
 * ### 주석
   - 변수 설명 주석은 오른쪽
