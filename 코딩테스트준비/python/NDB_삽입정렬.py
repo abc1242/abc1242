@@ -7,5 +7,5 @@ for i in range(1, len(array)):
             array[j], array[j-1] = array[j-1],array[j]
         else:   #자기보다 작은데이터를 만나면 멈춤
             break
-            
+
 print(array)
