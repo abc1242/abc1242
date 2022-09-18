@@ -1,5 +1,5 @@
 # https://gurumee92.tistory.com/165
-
+# https://school.programmers.co.kr/questions/29334
 from collections import defaultdict
 
 def solution(tickets):
